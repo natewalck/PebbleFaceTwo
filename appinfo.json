@@ -6,10 +6,21 @@
         "location"
     ],
     "companyName": "OS X Devops",
-    "longName": "Pebble Watchface Two",
+    "longName": "Two",
     "projectType": "native",
     "resources": {
         "media": [
+            {
+                "file": "images/TwoMenuSmall.png",
+                "menuIcon": true,
+                "name": "IMAGE_TWO_MENU_SMALL",
+                "type": "png"
+            },
+            {
+                "file": "images/TwoMenuImage.png",
+                "name": "IMAGE_TWO_MENU",
+                "type": "png"
+            },
             {
                 "file": "images/background3.png",
                 "name": "IMAGE_BACKGROUND3",
